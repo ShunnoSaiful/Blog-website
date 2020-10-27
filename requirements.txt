@@ -7,7 +7,7 @@ colored==1.4.0
 configobj==5.0.6
 configparser==4.0.2
 contextlib2==0.6.0.post1
-cryptography==2.8
+cryptography==3.2
 Deprecated==1.2.6
 Django==1.11.28
 django-crispy-forms==1.8.1
